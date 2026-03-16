@@ -5,3 +5,4 @@ The objective of this analysis is to explore how different specialties contribut
 In addition, SQL queries were used to perform deeper analysis on the dataset, including identifying high-volume but low-reimbursement procedures, ranking specialties based on average service price, and examining variation in payment structures across commonly billed HCPCS codes. The insights from this analysis help highlight how service utilization and reimbursement vary across medical specialties within the Medicare Part B program.
 
 This project demonstrates practical skills in healthcare claims data analysis, data transformation, SQL querying, and data visualization, which are essential for healthcare data analyst and clinical data analyst roles.
+<img width="931" height="537" alt="image" src="https://github.com/user-attachments/assets/10fcd915-8a94-449a-98f7-8fd1b08d0626" />
